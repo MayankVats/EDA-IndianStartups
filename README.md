@@ -5,4 +5,4 @@ This is a Data Cleaning project I did in my online Data Science course of Coding
 In this project, I applied my knowledge of python's most popular library for data manipulation - Pandas, which I learned in the course.
 
 ## About The Dataset
-The dataset was of Funding of Indian Startups (each columnns') description is given in python notebook which you can download and go through.
+The dataset(in CSV file) was of Funding of Indian Startups (each columnns') description is given in python notebook which you can download and go through.
